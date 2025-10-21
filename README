@@ -1,0 +1,3 @@
+python -m venv venv
+pip install Flask requests python-dotenv
+pip freeze > requirements.txt
